@@ -1,0 +1,4 @@
+id: 1; habit: be; streak: 1; goal: 2; log: ['2024-11-26', '2024-11-17']
+id: 2; habit: washing dishes; streak: 3; goal: 3; log: ['2024-11-26', '2024-11-25', '2024-11-24']
+id: 3; habit: exercise; streak: 0; goal: 7; log: []
+id: 4; habit: reading; streak: 0; goal: 5; log: []
