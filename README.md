@@ -87,3 +87,10 @@ This feature allows users to save their data for future use and exit the program
 6. Different files saving format : text, csv, html
 7. Improve user interface 
 
+---
+## Screenshots
+<p align="center">
+  <img src="assets/add.png" width="200"/><br>
+  <img src="assets/log.png" width="200"/><br>
+  <img src="assets/report.png" width="200"/>
+</p>
