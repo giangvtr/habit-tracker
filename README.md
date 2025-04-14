@@ -89,8 +89,9 @@ This feature allows users to save their data for future use and exit the program
 
 ---
 ## Screenshots
-<p align="center">
-  <img src="assets/add.png" width="170"/><br>
-  <img src="assets/log.png" width="170"/><br>
-  <img src="assets/report.png" width="170"/>
-</p>
+<div align="center">
+  <img src="assets/add.png" width="200" style="margin: 10px;">
+  <img src="assets/log.png" width="200" style="margin: 10px;">
+  <img src="assets/report.png" width="200" style="margin: 10px;">
+</div>
+
